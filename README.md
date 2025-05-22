@@ -1,2 +1,1 @@
 # Integral Tripla
-## Conceito
