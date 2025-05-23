@@ -14,4 +14,4 @@ $$ \pm c \int_{b}^{a} x \, dx $$
 
 # 🤔 Exemplo:
 
-$$ \pm 3 \int_{0}^{3} x \, dx $$
+$$ \pm 3 \int_{-3}^{3} x \, dx $$
