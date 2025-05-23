@@ -14,4 +14,7 @@ $$ \pm c \int_{b}^{a} x \, dx $$
 
 # 🤔 Exemplo:
 
-$$ \pm 3 \int_{-3}^{3} x \, dx $$
+* **ℹ Para chegar ao valor de 3 (a), foi somado 3 (c) ao 0(b), e para chegar ao 0 (b) foi subtraído 3 (c) de 3 (a) **
+
+
+$$ \pm 3 \int_{0}^{3} x \, dx $$
