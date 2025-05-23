@@ -3,9 +3,7 @@
 ``
 Caso você estiver usando o aplicativo na versão para celular, algumas fórmulas ou cálculos não serão visíveis, devido á uma libraria usada (MathJax).
 ``
-#
-
-* **📖 Conceito:**
+# * Conceito
 `
  A integral comum (Cálculo I) Geralmente contém apenas dois números em sua definição, sendo eles "a" e "b".
    Porém o que eu fiz nesse repositório é mudar completamente, agora na parte de trás da integral irá conter um novo valor, sendo o tal valor chamado de ±, "c".
