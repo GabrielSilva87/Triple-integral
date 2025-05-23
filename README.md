@@ -11,3 +11,7 @@ Caso você estiver usando o aplicativo na versão para celular, algumas fórmula
 `
 
 $$ \pm c \int_{b}^{a} x \, dx $$
+
+# 🤔 Exemplo:
+
+$$ \pm 3 \int_{0}^{3} x \, dx $$
