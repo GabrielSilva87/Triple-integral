@@ -24,3 +24,6 @@ $$ \pm 3 \int_{0}^{3} x \, dx $$
 
 ` ↪ Resumindo:
 `
+$$
+A = B  + C
+B = A - C
