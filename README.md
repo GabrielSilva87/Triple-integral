@@ -3,7 +3,7 @@
 ``
 Caso você estiver usando o aplicativo na versão para celular, algumas fórmulas ou cálculos não iram ser visíveis, devido á uma libraria usada (MathJax).
 ``
-
+#
 
 * **📖 Conceito:**
 `
