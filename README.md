@@ -19,3 +19,6 @@ $$ \pm c \int_{b}^{a} x \, dx $$
 
 
 $$ \pm 3 \int_{0}^{3} x \, dx $$
+
+` ↪ Resumindo:
+`
