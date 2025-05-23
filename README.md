@@ -1,7 +1,7 @@
 # Integral Tripla (Definida)
 * **⚠️ Aviso:**
 ``
-Caso você estiver usando o aplicativo na versão para celular, algumas fórmulas ou cálculos não iram ser visíveis, devido á uma libraria usada (MathJax).
+Caso você estiver usando o aplicativo na versão para celular, algumas fórmulas ou cálculos não serão visíveis, devido á uma libraria usada (MathJax).
 ``
 #
 
