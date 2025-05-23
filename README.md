@@ -25,8 +25,8 @@ $$ \pm 3 \int_{0}^{3} x \, dx $$
 ` ↪ Resumindo:
 `
 $$
-A = B  + C
-$$
-$$
-B = A - C
+\begin{align*}
+A & = B + C \\
+B & = A - C
+\end{align*}
 $$
