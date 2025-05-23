@@ -12,7 +12,7 @@ Caso você estiver usando o aplicativo na versão para celular, algumas fórmula
 
 $$ \pm c \int_{b}^{a} x \, dx $$
 
-# 🤔 Exemplo:
+# 🤔 Exemplos:
 
 ` ℹ Para chegar ao valor de 3 (a), foi somado 3 (c) ao 0(b), e para chegar ao 0 (b) foi subtraído 3 (c) de 3 (a)
 `
