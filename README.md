@@ -18,6 +18,7 @@ $$ \pm c \int_{b}^{a} x \, dx $$
     
 => b = a - c
 => a = b + c
+
 `
 
 
