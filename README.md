@@ -1,3 +1,3 @@
 # Integral Tripla
-``` Conceito: ```
+``` 📖 Conceito: ```
 $$ \pm c \int_{b}^{a} x \, dx $$
