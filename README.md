@@ -3,6 +3,8 @@
 `
 Caso você estiver usando o aplicativo na versão para celular, algumas fórmulas ou cálculos não iram ser visíveis, devido á uma libraria usada (MathJax).
 `
+
+
 * **📖 Conceito:**
 `
  A integral comum (Cálculo I) Geralmente contém apenas dois números em sua definição, sendo eles "a" e "b".
